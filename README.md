@@ -16,4 +16,4 @@
 ## Now run "python3 manage.py runserver" and your bare-bone webserver is up and running
 ## To view tuhin's marks in JSON format, use the url http://127.0.0.1:5000/get/1 (general format : http://127.0.0.1:5000/get/__id__)
 ## If you want to add a person's marks use the url http://127.0.0.1:5000/add?id=2&name=chirag&score=92
-## For rest of information like which packages to download and any missing info can be found on the website https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc
+## For other information like which packages to download and any missing info can be found on the website https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc
